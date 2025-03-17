@@ -4,4 +4,6 @@ You can tuning PID in any available way such as:
 1. Ziegler Nichols
 2. Manually,
 3. Software such as MATLAB/Simulink, LabVIEW, or others.
-![Circuit Diagram] (TinkerCAD.jpg)
+
+Here's a picture of the components I used and the circuit
+![Circuit Diagram](TinkerCAD.jpg)
