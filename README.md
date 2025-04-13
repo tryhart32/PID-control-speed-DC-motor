@@ -7,3 +7,6 @@ You can tuning PID in any available way such as:
 
 Here's a picture of the components I used and the circuit
 ![Circuit Diagram](TinkerCAD.jpg)
+
+And this is link about the project:
+https://www.tinkercad.com/things/8QOUoZTtfrN-pid-control-dc-motor-velocity 
