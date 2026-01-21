@@ -5,7 +5,6 @@ You can tuning PID in any available way such as:
 2. Manually,
 3. Software such as MATLAB/Simulink, LabVIEW, or others.
 
-Here's a picture of the components I used and the circuit
 ![Circuit Diagram](TinkerCAD.jpg)
 
 And this is link about the project:
